@@ -1,0 +1,16 @@
+/* Page Styles */
+@charset "utf-8";
+body {
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size: 150%;
+	line-height: 1.4;
+	width: 640px;
+	margin-left: auto;
+	margin-right: auto;
+}
+ h3 {
+	 text-align: center;
+ }
+ aside p:first-of-type{
+	 background-color: grey
+ }
